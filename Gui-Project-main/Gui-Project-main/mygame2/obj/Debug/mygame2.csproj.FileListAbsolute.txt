@@ -1,0 +1,12 @@
+C:\Users\lenovo\source\repos\mygame2\mygame2\bin\Debug\mygame2.exe.config
+C:\Users\lenovo\source\repos\mygame2\mygame2\bin\Debug\mygame2.exe
+C:\Users\lenovo\source\repos\mygame2\mygame2\bin\Debug\mygame2.pdb
+C:\Users\lenovo\source\repos\mygame2\mygame2\obj\Debug\mygame2.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\mygame2\mygame2\obj\Debug\mygame2.Form1.resources
+C:\Users\lenovo\source\repos\mygame2\mygame2\obj\Debug\mygame2.Properties.Resources.resources
+C:\Users\lenovo\source\repos\mygame2\mygame2\obj\Debug\mygame2.csproj.GenerateResource.cache
+C:\Users\lenovo\source\repos\mygame2\mygame2\obj\Debug\mygame2.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\mygame2\mygame2\obj\Debug\mygame2.exe
+C:\Users\lenovo\source\repos\mygame2\mygame2\obj\Debug\mygame2.pdb
+C:\Users\lenovo\source\repos\mygame2\mygame2\obj\Debug\Interop.WMPLib.dll
+C:\Users\lenovo\source\repos\mygame2\mygame2\obj\Debug\mygame2.csproj.ResolveComReference.cache

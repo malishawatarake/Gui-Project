@@ -48,7 +48,9 @@ https://github.com/malishawatarake/space-shooter-csharp
 <img width="64" height="64" alt="munition" src="https://github.com/user-attachments/assets/38b64041-0acc-411a-aad8-4ed39d78b4d4" />
 <img width="90" height="90" alt="E1" src="https://github.com/user-attachments/assets/b7565342-5c51-48e9-a72a-a3a3a55c38ac" />
 <img width="80" height="80" alt="Boss1" src="https://github.com/user-attachments/assets/f9ebc7f6-94d4-4874-b0df-9461ffb43524" />
+<br>
 - Player ship image is embedded in resources
+<br>
 <img width="96" height="96" alt="player" src="https://github.com/user-attachments/assets/966c6487-7c3d-423f-8005-6507925b1075" />
 
 
